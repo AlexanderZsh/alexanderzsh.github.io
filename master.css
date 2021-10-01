@@ -171,8 +171,9 @@ ul.pubs > li{
  	font-size:0.8em;
 }
 
-.post {
-}
+/* .post {
+	height: 800px;
+} */
 
 
 .hidden {
@@ -197,7 +198,9 @@ pre {
 	whitewhite-space: -o-pre-wrap;    /* Opera 7 */  
 	word-wrap: break-word;       /* Internet Explorer 5+ */  
 	whitewhite-space: -moz-pre-wrap;  /* Older Versions of Mozilla */  
+
 }
+
 
 div#header {
 
